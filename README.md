@@ -27,7 +27,7 @@
 2. **Install Required Libraries**: 
    Make sure to install the necessary Python libraries: 
    ```bash
-  pip install torch torchvision scikit-learn
+   pip install torch torchvision scikit-learn
 
 3. **Run the Notebook**: 
    Open the Jupyter Notebook (`.ipynb` file) in your preferred environment (Jupyter or Google Colab) and follow the instructions to run the model.
